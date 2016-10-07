@@ -1,5 +1,5 @@
 # Module 7: Introduction to Vectors
-
+# Leon Tan and Yingyun Miao
 ## Overview
 In this module, we'll cover the foundational concepts for working with **vectors** in R. Understanding how R stores information in vectors, and the way in which operations are executed in _vectorized_ form is key to understanding how to efficiently write the R programming language.
 
